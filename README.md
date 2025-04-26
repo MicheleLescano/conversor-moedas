@@ -47,6 +47,15 @@ Resultado: 100 USD = 510 BRL
 
 ---
 
+## 📷 Screenshot do Projeto
+
+![Menu do Conversor de Moedas](images/principal.png)
+
+![Teste da Taxa do Conversor de Moedas](images/TesteApiService.png)
+
+
+---
+
 ## 📌 Observações
 Para usar o projeto, é necessário gerar uma chave de API gratuita no ExchangeRate API.
 
